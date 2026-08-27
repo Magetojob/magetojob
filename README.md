@@ -72,7 +72,7 @@ class SecurityEngineer:
 
 | # | Project | Description | Tech | Status |
 |---|---------|-------------|------|--------|
-| 01 | [network-recon-tool](https://github.com/YOUR_USERNAME/network-recon-tool) | Python CLI port scanner, banner grabber, and host discovery tool | Python, Nmap | ✅ Done |
+| 01 | [network-recon-tool](https://github.com/Magetojob/network-recon-tools) | Python CLI port scanner, banner grabber, and host discovery tool | Python, Nmap | ✅ Done |
 | 02 | [password-audit-suite](https://github.com/YOUR_USERNAME/password-audit-suite) | Hash cracker (MD5/SHA1/SHA256) + strength checker + report gen | Python, hashlib | ✅ Done |
 | 03 | [log-analyzer](https://github.com/YOUR_USERNAME/log-analyzer) | Apache/Nginx/Windows log parser — detects brute force & anomalies | Python, pandas | ✅ Done |
 | 04 | [vuln-web-scanner](https://github.com/YOUR_USERNAME/vuln-web-scanner) | Automated OWASP Top 10 scanner — SQLi, XSS, SSRF, directory traversal | Python, requests | 🔨 Building |
