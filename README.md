@@ -137,9 +137,9 @@ class SecurityEngineer:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/job-mageto)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Email](https://img.shields.io/badge/Email-Hire_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Hire_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magetojob3mail.com)
 [![Blog](https://img.shields.io/badge/Blog-Read_writeups-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://your-blog-url.com)
 
 </div>
