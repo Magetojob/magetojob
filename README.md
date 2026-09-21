@@ -83,7 +83,7 @@ class SecurityEngineer:
 | 09 | [osint-framework](https://github.com/YOUR_USERNAME/osint-framework) | Multi-source OSINT aggregator — Shodan, HIBP, Censys, DNS | Python, APIs | 📅 Planned |
 | 10 | [exploit-dev-toolkit](https://github.com/YOUR_USERNAME/exploit-dev-toolkit) | Buffer overflow & ROP chain exploits with full write-ups | Python, C, pwntools | 📅 Planned |
 | 11 | [cloud-security-scanner](https://github.com/YOUR_USERNAME/cloud-security-scanner) | AWS misconfiguration scanner — S3, IAM, secrets, CIS benchmark | Python, boto3 | 📅 Planned |
-| 12 | [pentest-report-template](https://github.com/YOUR_USERNAME/pentest-report-template) | Professional pentest report — executive summary + CVSS findings | Markdown, LaTeX | 📅 Planned |
+| 12 | [pentest-report-template](https://github.com/Magetojob/pentest-report-Kioptrix-Level-1) | Professional pentest report — executive summary + CVSS findings | Markdown, LaTeX | ✅ Done |
 
 ---
 
