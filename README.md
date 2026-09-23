@@ -93,8 +93,9 @@ class SecurityEngineer:
 |------------|--------|------|--------|
 | Certified Ethical Hacker (CEH) | EC-Council | 2024 | ✅ Certified |
 | Ethical Hacking | Cisco Networking Academy | 2024 | ✅ Certified |
-| Cybersecurity Engineer | [Your Institute] | 2024 | ✅ Completed |
-| Pentest Professional (OSCP / eJPT) | [Provider] | 2025 | 🔨 In progress |
+| Cybersecurity Engineer | Cyber Shujaa(USIU) | 2024 | ✅ Completed |
+| Applied physics & Computer Science | Multimedia University | 2025 | ✅ Completed |
+| Pentest Professional (OSCP / eJPT) | 📅 Planned | 2025 | 📅 Planned |
 | CompTIA Security+ | CompTIA | 2025 | 📅 Planned |
 
 ---
